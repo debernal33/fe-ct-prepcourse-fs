@@ -90,9 +90,7 @@ git commit -m "First commit: HTML file"
 
 ⚠️ _Recuerda que el mensaje del commit puede ser cualquiera. Se recomienda en lo posible que sea descriptivo y por convención escrito en inglés_
 
-3. Ve a Github y crea un nuevo repositorio.
-4. Sigue las instrucciones proporcionadas en Github para conectar tu repositorio local con el repositorio remoto allí creado.
-5. Una vez tengas creado tu repositorio remoto y vinculado con tu repositorio local, ejecuta el siguiente comando:
+
 
 ```bash
 git push
